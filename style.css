@@ -1,0 +1,31 @@
+h3{
+    background-color: antiquewhite;
+    color: cornflowerblue;
+    text-align: center;
+}
+p{
+    color: brown;
+    background-color: beige;
+}
+div{
+    border: dashed black 2px;
+    margin: auto;
+    background-color: beige;
+    color: brown;
+    display: block;
+    justify-content: center;
+    width: 250px;
+    display: flex;
+    flex-direction:column ;
+    
+}
+div:hover{
+    border:  black solid 2px;
+    padding: 5px;
+    background-color: blue;
+    border-radius: 15%;
+}
+button{
+    margin: 20px;
+    cursor: pointer;
+}
